@@ -122,6 +122,7 @@ My accepted leetcode solutions
 |611|[Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number)|2623 ms|38.3 MB|15-07-2021|[java](code/611.valid-triangle-number.java)|
 |617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees)|0 ms|39.5 MB|02-07-2021|[java](code/617.merge-two-binary-trees.java)|
 |637|[Average Of Levels In Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree)|0 ms|39.5 MB|02-07-2021|[java](code/637.average-of-levels-in-binary-tree.java)|
+|654|[Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree)|2623 ms|38.3 MB|15-07-2021|[java](code/654.maximum-binary-tree.java)|
 |724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index)|0 ms|39.5 MB|02-07-2021|[java](code/724.find-pivot-index.java)|
 |785|[Is Graph Bipartite](https://leetcode.com/problems/is-graph-bipartite)|0 ms|39.5 MB|02-07-2021|[java](code/785.is-graph-bipartite.java)|
 |791|[Custom Sort String](https://leetcode.com/problems/custom-sort-string)|1 ms|37.1 MB|14-07-2021|[java](code/791.custom-sort-string.java)|

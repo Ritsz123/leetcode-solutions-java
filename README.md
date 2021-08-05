@@ -133,12 +133,15 @@ My accepted leetcode solutions
 |637|[Average Of Levels In Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree)|0 ms|39.5 MB|02-07-2021|[java](code/637.average-of-levels-in-binary-tree.java)|
 |654|[Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree)|2623 ms|38.3 MB|15-07-2021|[java](code/654.maximum-binary-tree.java)|
 |677|[Map Sum Pairs](https://leetcode.com/problems/map-sum-pairs)|12 ms|39 MB|30-07-2021|[java](code/677.map-sum-pairs.java)|
+|695|[Max Area Of Island](https://leetcode.com/problems/max-area-of-island)|12 ms|39 MB|30-07-2021|[java](code/695.max-area-of-island.java)|
+|700|[Search In A Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree)|344 ms|39.7 MB|29-06-2021|[java](code/700.search-in-a-binary-search-tree.java)|
 |724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index)|0 ms|39.5 MB|02-07-2021|[java](code/724.find-pivot-index.java)|
 |785|[Is Graph Bipartite](https://leetcode.com/problems/is-graph-bipartite)|0 ms|39.5 MB|02-07-2021|[java](code/785.is-graph-bipartite.java)|
 |791|[Custom Sort String](https://leetcode.com/problems/custom-sort-string)|1 ms|37.1 MB|14-07-2021|[java](code/791.custom-sort-string.java)|
 |814|[Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning)|0 ms|36.6 MB|23-07-2021|[java](code/814.binary-tree-pruning.java)|
 |860|[Lemonade Change](https://leetcode.com/problems/lemonade-change)|3 ms|98.1 MB|28-07-2021|[java](code/860.lemonade-change.java)|
 |876|[Middle Of The Linked List](https://leetcode.com/problems/middle-of-the-linked-list)|0 ms|35.9 MB|21-11-2020|[java](code/876.middle-of-the-linked-list.java)|
+|877|[Stone Game](https://leetcode.com/problems/stone-game)|0 ms|36.6 MB|05-08-2021|[java](code/877.stone-game.java)|
 |901|[Online Stock Span](https://leetcode.com/problems/online-stock-span)|26 ms|47 MB|21-07-2021|[java](code/901.online-stock-span.java)|
 |915|[Partition Array Into Disjoint Intervals](https://leetcode.com/problems/partition-array-into-disjoint-intervals)|1069 ms|39.2 MB|22-07-2021|[java](code/915.partition-array-into-disjoint-intervals.java)|
 |938|[Range Sum Of Bst](https://leetcode.com/problems/range-sum-of-bst)|0 ms|47.4 MB|18-07-2021|[java](code/938.range-sum-of-bst.java)|

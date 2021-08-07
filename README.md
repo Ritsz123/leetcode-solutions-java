@@ -147,6 +147,7 @@ My accepted leetcode solutions
 |901|[Online Stock Span](https://leetcode.com/problems/online-stock-span)|26 ms|47 MB|21-07-2021|[java](code/901.online-stock-span.java)|
 |915|[Partition Array Into Disjoint Intervals](https://leetcode.com/problems/partition-array-into-disjoint-intervals)|1069 ms|39.2 MB|22-07-2021|[java](code/915.partition-array-into-disjoint-intervals.java)|
 |938|[Range Sum Of Bst](https://leetcode.com/problems/range-sum-of-bst)|0 ms|47.4 MB|18-07-2021|[java](code/938.range-sum-of-bst.java)|
+|958|[Check Completeness Of A Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree)|1 ms|38.3 MB|07-08-2021|[java](code/958.check-completeness-of-a-binary-tree.java)|
 |977|[Squares Of A Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array)|0 ms|47.4 MB|18-07-2021|[java](code/977.squares-of-a-sorted-array.java)|
 |994|[Rotting Oranges](https://leetcode.com/problems/rotting-oranges)|3 ms|41.3 MB|29-06-2021|[java](code/994.rotting-oranges.java)|
 |1011|[Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days)|399 ms|42.3 MB|05-07-2021|[java](code/1011.capacity-to-ship-packages-within-d-days.java)|

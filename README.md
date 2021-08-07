@@ -46,6 +46,7 @@ My accepted leetcode solutions
 |60|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence)|5 ms|42 MB|08-08-2020|[java](code/60.permutation-sequence.java)|
 |61|[Rotate List](https://leetcode.com/problems/rotate-list)|0 ms|38.5 MB|26-12-2020|[java](code/61.rotate-list.java)|
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths)|0 ms|36.1 MB|02-09-2020|[java](code/62.unique-paths.java)|
+|70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs)|0 ms|35.7 MB|06-08-2021|[java](code/70.climbing-stairs.java)|
 |73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes)|0 ms|36.1 MB|02-09-2020|[java](code/73.set-matrix-zeroes.java)|
 |74|[Search A 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix)|1 ms|42.1 MB|25-08-2020|[java](code/74.search-a-2d-matrix.java)|
 |75|[Sort Colors](https://leetcode.com/problems/sort-colors)|1 ms|42.1 MB|25-08-2020|[java](code/75.sort-colors.java)|
@@ -117,6 +118,7 @@ My accepted leetcode solutions
 |387|[First Unique Character In A String](https://leetcode.com/problems/first-unique-character-in-a-string)|8 ms|39.6 MB|20-07-2021|[java](code/387.first-unique-character-in-a-string.java)|
 |392|[Is Subsequence](https://leetcode.com/problems/is-subsequence)|2 ms|38.5 MB|06-06-2021|[java](code/392.is-subsequence.java)|
 |409|[Longest Palindrome](https://leetcode.com/problems/longest-palindrome)|2 ms|37.3 MB|27-07-2021|[java](code/409.longest-palindrome.java)|
+|429|[N Ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal)|2 ms|39.5 MB|06-08-2021|[java](code/429.n-ary-tree-level-order-traversal.java)|
 |442|[Find All Duplicates In An Array](https://leetcode.com/problems/find-all-duplicates-in-an-array)|5 ms|48.3 MB|01-07-2021|[java](code/442.find-all-duplicates-in-an-array.java)|
 |485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones)|2 ms|40.8 MB|10-10-2020|[java](code/485.max-consecutive-ones.java)|
 |496|[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i)|3 ms|39.2 MB|05-07-2021|[java](code/496.next-greater-element-i.java)|
@@ -148,6 +150,7 @@ My accepted leetcode solutions
 |977|[Squares Of A Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array)|0 ms|47.4 MB|18-07-2021|[java](code/977.squares-of-a-sorted-array.java)|
 |994|[Rotting Oranges](https://leetcode.com/problems/rotting-oranges)|3 ms|41.3 MB|29-06-2021|[java](code/994.rotting-oranges.java)|
 |1011|[Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days)|399 ms|42.3 MB|05-07-2021|[java](code/1011.capacity-to-ship-packages-within-d-days.java)|
+|1051|[Height Checker](https://leetcode.com/problems/height-checker)|1 ms|36.6 MB|07-08-2021|[java](code/1051.height-checker.java)|
 |1089|[Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros)|26 ms|42.5 MB|25-07-2021|[java](code/1089.duplicate-zeros.java)|
 |1092|[Shortest Common Supersequence](https://leetcode.com/problems/shortest-common-supersequence)|9 ms|42.6 MB|27-07-2021|[java](code/1092.shortest-common-supersequence.java)|
 |1108|[Defanging An Ip Address](https://leetcode.com/problems/defanging-an-ip-address)|5 ms|37.1 MB|06-05-2021|[java](code/1108.defanging-an-ip-address.java)|
@@ -159,6 +162,7 @@ My accepted leetcode solutions
 |1295|[Find Numbers With Even Number Of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits)|1 ms|38.9 MB|23-07-2021|[java](code/1295.find-numbers-with-even-number-of-digits.java)|
 |1337|[The K Weakest Rows In A Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix)|10 ms|37.4 MB|06-11-2020|[java](code/1337.the-k-weakest-rows-in-a-matrix.java)|
 |1346|[Check If N And Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist)|1 ms|38.9 MB|26-07-2021|[java](code/1346.check-if-n-and-its-double-exist.java)|
+|1382|[Balance A Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree)|2 ms|42.6 MB|07-08-2021|[java](code/1382.balance-a-binary-search-tree.java)|
 |1423|[Maximum Points You Can Obtain From Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards)|1 ms|40.2 MB|27-06-2021|[java](code/1423.maximum-points-you-can-obtain-from-cards.java)|
 |1431|[Kids With The Greatest Number Of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies)|10 ms|37.4 MB|06-11-2020|[java](code/1431.kids-with-the-greatest-number-of-candies.java)|
 |1470|[Shuffle The Array](https://leetcode.com/problems/shuffle-the-array)|0 ms|39.2 MB|11-06-2021|[java](code/1470.shuffle-the-array.java)|

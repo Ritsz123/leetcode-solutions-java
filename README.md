@@ -51,6 +51,7 @@ My accepted leetcode solutions
 |74|[Search A 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix)|1 ms|42.1 MB|25-08-2020|[java](code/74.search-a-2d-matrix.java)|
 |75|[Sort Colors](https://leetcode.com/problems/sort-colors)|1 ms|42.1 MB|25-08-2020|[java](code/75.sort-colors.java)|
 |78|[Subsets](https://leetcode.com/problems/subsets)|1 ms|42.1 MB|25-08-2020|[java](code/78.subsets.java)|
+|79|[Word Search](https://leetcode.com/problems/word-search)|157 ms|39.4 MB|08-08-2021|[java](code/79.word-search.java)|
 |84|[Largest Rectangle In Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram)|47 ms|49.8 MB|26-05-2021|[java](code/84.largest-rectangle-in-histogram.java)|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)|0 ms|38.9 MB|29-06-2021|[java](code/88.merge-sorted-array.java)|
 |90|[Subsets Ii](https://leetcode.com/problems/subsets-ii)|2 ms|39.3 MB|08-03-2021|[java](code/90.subsets-ii.java)|
@@ -76,14 +77,17 @@ My accepted leetcode solutions
 |128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence)|3 ms|39.2 MB|30-09-2020|[java](code/128.longest-consecutive-sequence.java)|
 |131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning)|3 ms|39.2 MB|30-09-2020|[java](code/131.palindrome-partitioning.java)|
 |134|[Gas Station](https://leetcode.com/problems/gas-station)|3 ms|39.2 MB|30-09-2020|[java](code/134.gas-station.java)|
+|136|[Single Number](https://leetcode.com/problems/single-number)|1 ms|39.3 MB|08-08-2021|[java](code/136.single-number.java)|
 |138|[Copy List With Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer)|0 ms|38.9 MB|11-01-2021|[java](code/138.copy-list-with-random-pointer.java)|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle)|3 ms|39.5 MB|03-12-2020|[java](code/141.linked-list-cycle.java)|
 |142|[Linked List Cycle Ii](https://leetcode.com/problems/linked-list-cycle-ii)|3 ms|40 MB|16-12-2020|[java](code/142.linked-list-cycle-ii.java)|
+|145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal)|0 ms|37.4 MB|09-08-2021|[java](code/145.binary-tree-postorder-traversal.java)|
 |146|[Lru Cache](https://leetcode.com/problems/lru-cache)|55 ms|119 MB|05-07-2021|[java](code/146.lru-cache.java)|
 |151|[Reverse Words In A String](https://leetcode.com/problems/reverse-words-in-a-string)|11 ms|41.8 MB|17-07-2021|[java](code/151.reverse-words-in-a-string.java)|
 |155|[Min Stack](https://leetcode.com/problems/min-stack)|5 ms|40.4 MB|22-07-2021|[java](code/155.min-stack.java)|
 |160|[Intersection Of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists)|823 ms|42 MB|25-11-2020|[java](code/160.intersection-of-two-linked-lists.java)|
 |162|[Find Peak Element](https://leetcode.com/problems/find-peak-element)|823 ms|42 MB|25-11-2020|[java](code/162.find-peak-element.java)|
+|167|[Two Sum Ii Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted)|0 ms|39.4 MB|08-08-2021|[java](code/167.two-sum-ii-input-array-is-sorted.java)|
 |168|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title)|0 ms|36.5 MB|01-08-2021|[java](code/168.excel-sheet-column-title.java)|
 |169|[Majority Element](https://leetcode.com/problems/majority-element)|823 ms|42 MB|25-11-2020|[java](code/169.majority-element.java)|
 |199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view)|1 ms|37.6 MB|26-06-2021|[java](code/199.binary-tree-right-side-view.java)|
@@ -118,6 +122,7 @@ My accepted leetcode solutions
 |387|[First Unique Character In A String](https://leetcode.com/problems/first-unique-character-in-a-string)|8 ms|39.6 MB|20-07-2021|[java](code/387.first-unique-character-in-a-string.java)|
 |392|[Is Subsequence](https://leetcode.com/problems/is-subsequence)|2 ms|38.5 MB|06-06-2021|[java](code/392.is-subsequence.java)|
 |409|[Longest Palindrome](https://leetcode.com/problems/longest-palindrome)|2 ms|37.3 MB|27-07-2021|[java](code/409.longest-palindrome.java)|
+|415|[Add Strings](https://leetcode.com/problems/add-strings)|3 ms|39.2 MB|09-08-2021|[java](code/415.add-strings.java)|
 |429|[N Ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal)|2 ms|39.5 MB|06-08-2021|[java](code/429.n-ary-tree-level-order-traversal.java)|
 |442|[Find All Duplicates In An Array](https://leetcode.com/problems/find-all-duplicates-in-an-array)|5 ms|48.3 MB|01-07-2021|[java](code/442.find-all-duplicates-in-an-array.java)|
 |485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones)|2 ms|40.8 MB|10-10-2020|[java](code/485.max-consecutive-ones.java)|
@@ -133,6 +138,7 @@ My accepted leetcode solutions
 |611|[Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number)|2623 ms|38.3 MB|15-07-2021|[java](code/611.valid-triangle-number.java)|
 |617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees)|0 ms|39.5 MB|02-07-2021|[java](code/617.merge-two-binary-trees.java)|
 |637|[Average Of Levels In Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree)|0 ms|39.5 MB|02-07-2021|[java](code/637.average-of-levels-in-binary-tree.java)|
+|653|[Two Sum Iv Input Is A Bst](https://leetcode.com/problems/two-sum-iv-input-is-a-bst)|2 ms|40.6 MB|08-08-2021|[java](code/653.two-sum-iv-input-is-a-bst.java)|
 |654|[Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree)|2623 ms|38.3 MB|15-07-2021|[java](code/654.maximum-binary-tree.java)|
 |677|[Map Sum Pairs](https://leetcode.com/problems/map-sum-pairs)|12 ms|39 MB|30-07-2021|[java](code/677.map-sum-pairs.java)|
 |695|[Max Area Of Island](https://leetcode.com/problems/max-area-of-island)|12 ms|39 MB|30-07-2021|[java](code/695.max-area-of-island.java)|
@@ -163,6 +169,7 @@ My accepted leetcode solutions
 |1295|[Find Numbers With Even Number Of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits)|1 ms|38.9 MB|23-07-2021|[java](code/1295.find-numbers-with-even-number-of-digits.java)|
 |1337|[The K Weakest Rows In A Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix)|10 ms|37.4 MB|06-11-2020|[java](code/1337.the-k-weakest-rows-in-a-matrix.java)|
 |1346|[Check If N And Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist)|1 ms|38.9 MB|26-07-2021|[java](code/1346.check-if-n-and-its-double-exist.java)|
+|1365|[How Many Numbers Are Smaller Than The Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number)|1 ms|38.9 MB|26-07-2021|[java](code/1365.how-many-numbers-are-smaller-than-the-current-number.java)|
 |1382|[Balance A Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree)|2 ms|42.6 MB|07-08-2021|[java](code/1382.balance-a-binary-search-tree.java)|
 |1423|[Maximum Points You Can Obtain From Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards)|1 ms|40.2 MB|27-06-2021|[java](code/1423.maximum-points-you-can-obtain-from-cards.java)|
 |1431|[Kids With The Greatest Number Of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies)|10 ms|37.4 MB|06-11-2020|[java](code/1431.kids-with-the-greatest-number-of-candies.java)|
@@ -173,6 +180,7 @@ My accepted leetcode solutions
 |1552|[Magnetic Force Between Two Balls](https://leetcode.com/problems/magnetic-force-between-two-balls)|0 ms|39.2 MB|11-06-2021|[java](code/1552.magnetic-force-between-two-balls.java)|
 |1672|[Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth)|0 ms|38.5 MB|11-06-2021|[java](code/1672.richest-customer-wealth.java)|
 |1748|[Sum Of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements)|0 ms|38.5 MB|11-06-2021|[java](code/1748.sum-of-unique-elements.java)|
+|1859|[Sorting The Sentence](https://leetcode.com/problems/sorting-the-sentence)|0 ms|36.9 MB|23-06-2021|[java](code/1859.sorting-the-sentence.java)|
 |1880|[Check If Word Equals Summation Of Two Words](https://leetcode.com/problems/check-if-word-equals-summation-of-two-words)|0 ms|38.5 MB|11-06-2021|[java](code/1880.check-if-word-equals-summation-of-two-words.java)|
 |1920|[Build Array From Permutation](https://leetcode.com/problems/build-array-from-permutation)|0 ms|38.5 MB|11-06-2021|[java](code/1920.build-array-from-permutation.java)|
 |1929|[Concatenation Of Array](https://leetcode.com/problems/concatenation-of-array)|0 ms|38.5 MB|11-06-2021|[java](code/1929.concatenation-of-array.java)|

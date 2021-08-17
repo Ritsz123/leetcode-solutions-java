@@ -43,6 +43,7 @@ My accepted leetcode solutions
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix)|0 ms|37 MB|01-07-2021|[java](code/54.spiral-matrix.java)|
 |55|[Jump Game](https://leetcode.com/problems/jump-game)|673 ms|65.5 MB|09-07-2021|[java](code/55.jump-game.java)|
 |56|[Merge Intervals](https://leetcode.com/problems/merge-intervals)|5 ms|42 MB|08-08-2020|[java](code/56.merge-intervals.java)|
+|59|[Spiral Matrix Ii](https://leetcode.com/problems/spiral-matrix-ii)|0 ms|37 MB|11-08-2021|[java](code/59.spiral-matrix-ii.java)|
 |60|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence)|5 ms|42 MB|08-08-2020|[java](code/60.permutation-sequence.java)|
 |61|[Rotate List](https://leetcode.com/problems/rotate-list)|0 ms|38.5 MB|26-12-2020|[java](code/61.rotate-list.java)|
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths)|0 ms|36.1 MB|02-09-2020|[java](code/62.unique-paths.java)|
@@ -53,6 +54,7 @@ My accepted leetcode solutions
 |78|[Subsets](https://leetcode.com/problems/subsets)|1 ms|42.1 MB|25-08-2020|[java](code/78.subsets.java)|
 |79|[Word Search](https://leetcode.com/problems/word-search)|157 ms|39.4 MB|08-08-2021|[java](code/79.word-search.java)|
 |84|[Largest Rectangle In Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram)|47 ms|49.8 MB|26-05-2021|[java](code/84.largest-rectangle-in-histogram.java)|
+|86|[Partition List](https://leetcode.com/problems/partition-list)|1 ms|39.5 MB|13-08-2021|[java](code/86.partition-list.java)|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)|0 ms|38.9 MB|29-06-2021|[java](code/88.merge-sorted-array.java)|
 |90|[Subsets Ii](https://leetcode.com/problems/subsets-ii)|2 ms|39.3 MB|08-03-2021|[java](code/90.subsets-ii.java)|
 |92|[Reverse Linked List Ii](https://leetcode.com/problems/reverse-linked-list-ii)|0 ms|36.7 MB|23-06-2021|[java](code/92.reverse-linked-list-ii.java)|
@@ -108,16 +110,19 @@ My accepted leetcode solutions
 |239|[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum)|22 ms|63.5 MB|02-07-2020|[java](code/239.sliding-window-maximum.java)|
 |240|[Search A 2D Matrix Ii](https://leetcode.com/problems/search-a-2d-matrix-ii)|4 ms|44.9 MB|25-08-2020|[java](code/240.search-a-2d-matrix-ii.java)|
 |268|[Missing Number](https://leetcode.com/problems/missing-number)|6 ms|39.9 MB|02-08-2021|[java](code/268.missing-number.java)|
+|278|[First Bad Version](https://leetcode.com/problems/first-bad-version)|6 ms|39.9 MB|02-08-2021|[java](code/278.first-bad-version.java)|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes)|0 ms|39 MB|29-06-2021|[java](code/283.move-zeroes.java)|
 |287|[Find The Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number)|5 ms|42.1 MB|01-08-2020|[java](code/287.find-the-duplicate-number.java)|
 |289|[Game Of Life](https://leetcode.com/problems/game-of-life)|5 ms|42.1 MB|01-08-2020|[java](code/289.game-of-life.java)|
 |295|[Find Median From Data Stream](https://leetcode.com/problems/find-median-from-data-stream)|5 ms|42.1 MB|01-08-2020|[java](code/295.find-median-from-data-stream.java)|
 |297|[Serialize And Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree)|5 ms|42.1 MB|01-08-2020|[java](code/297.serialize-and-deserialize-binary-tree.java)|
+|303|[Range Sum Query Immutable](https://leetcode.com/problems/range-sum-query-immutable)|6 ms|44.1 MB|16-08-2021|[java](code/303.range-sum-query-immutable.java)|
 |322|[Coin Change](https://leetcode.com/problems/coin-change)|18 ms|38.9 MB|03-08-2021|[java](code/322.coin-change.java)|
 |326|[Power Of Three](https://leetcode.com/problems/power-of-three)|10 ms|38.6 MB|02-08-2021|[java](code/326.power-of-three.java)|
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits)|9 ms|43.1 MB|25-06-2021|[java](code/338.counting-bits.java)|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string)|0 ms|46.7 MB|31-08-2020|[java](code/344.reverse-string.java)|
 |350|[Intersection Of Two Arrays Ii](https://leetcode.com/problems/intersection-of-two-arrays-ii)|0 ms|46.7 MB|31-08-2020|[java](code/350.intersection-of-two-arrays-ii.java)|
+|374|[Guess Number Higher Or Lower](https://leetcode.com/problems/guess-number-higher-or-lower)|0 ms|35.6 MB|17-08-2021|[java](code/374.guess-number-higher-or-lower.java)|
 |380|[Insert Delete Getrandom O1](https://leetcode.com/problems/insert-delete-getrandom-o1)|0 ms|46.7 MB|31-08-2020|[java](code/380.insert-delete-getrandom-o1.java)|
 |387|[First Unique Character In A String](https://leetcode.com/problems/first-unique-character-in-a-string)|8 ms|39.6 MB|20-07-2021|[java](code/387.first-unique-character-in-a-string.java)|
 |392|[Is Subsequence](https://leetcode.com/problems/is-subsequence)|2 ms|38.5 MB|06-06-2021|[java](code/392.is-subsequence.java)|
@@ -138,6 +143,7 @@ My accepted leetcode solutions
 |611|[Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number)|2623 ms|38.3 MB|15-07-2021|[java](code/611.valid-triangle-number.java)|
 |617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees)|0 ms|39.5 MB|02-07-2021|[java](code/617.merge-two-binary-trees.java)|
 |637|[Average Of Levels In Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree)|0 ms|39.5 MB|02-07-2021|[java](code/637.average-of-levels-in-binary-tree.java)|
+|647|[Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings)|2 ms|40.9 MB|19-06-2021|[java](code/647.palindromic-substrings.java)|
 |653|[Two Sum Iv Input Is A Bst](https://leetcode.com/problems/two-sum-iv-input-is-a-bst)|2 ms|40.6 MB|08-08-2021|[java](code/653.two-sum-iv-input-is-a-bst.java)|
 |654|[Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree)|2623 ms|38.3 MB|15-07-2021|[java](code/654.maximum-binary-tree.java)|
 |677|[Map Sum Pairs](https://leetcode.com/problems/map-sum-pairs)|12 ms|39 MB|30-07-2021|[java](code/677.map-sum-pairs.java)|
@@ -152,7 +158,9 @@ My accepted leetcode solutions
 |877|[Stone Game](https://leetcode.com/problems/stone-game)|0 ms|36.6 MB|05-08-2021|[java](code/877.stone-game.java)|
 |901|[Online Stock Span](https://leetcode.com/problems/online-stock-span)|26 ms|47 MB|21-07-2021|[java](code/901.online-stock-span.java)|
 |915|[Partition Array Into Disjoint Intervals](https://leetcode.com/problems/partition-array-into-disjoint-intervals)|1069 ms|39.2 MB|22-07-2021|[java](code/915.partition-array-into-disjoint-intervals.java)|
+|931|[Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum)|0 ms|36.6 MB|05-08-2021|[java](code/931.minimum-falling-path-sum.java)|
 |938|[Range Sum Of Bst](https://leetcode.com/problems/range-sum-of-bst)|0 ms|47.4 MB|18-07-2021|[java](code/938.range-sum-of-bst.java)|
+|954|[Array Of Doubled Pairs](https://leetcode.com/problems/array-of-doubled-pairs)|0 ms|47.4 MB|18-07-2021|[java](code/954.array-of-doubled-pairs.java)|
 |958|[Check Completeness Of A Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree)|1 ms|38.3 MB|07-08-2021|[java](code/958.check-completeness-of-a-binary-tree.java)|
 |977|[Squares Of A Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array)|0 ms|47.4 MB|18-07-2021|[java](code/977.squares-of-a-sorted-array.java)|
 |994|[Rotting Oranges](https://leetcode.com/problems/rotting-oranges)|3 ms|41.3 MB|29-06-2021|[java](code/994.rotting-oranges.java)|
@@ -173,6 +181,7 @@ My accepted leetcode solutions
 |1382|[Balance A Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree)|2 ms|42.6 MB|07-08-2021|[java](code/1382.balance-a-binary-search-tree.java)|
 |1423|[Maximum Points You Can Obtain From Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards)|1 ms|40.2 MB|27-06-2021|[java](code/1423.maximum-points-you-can-obtain-from-cards.java)|
 |1431|[Kids With The Greatest Number Of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies)|10 ms|37.4 MB|06-11-2020|[java](code/1431.kids-with-the-greatest-number-of-candies.java)|
+|1448|[Count Good Nodes In Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree)|12 ms|39.1 MB|09-08-2021|[java](code/1448.count-good-nodes-in-binary-tree.java)|
 |1470|[Shuffle The Array](https://leetcode.com/problems/shuffle-the-array)|0 ms|39.2 MB|11-06-2021|[java](code/1470.shuffle-the-array.java)|
 |1476|[Subrectangle Queries](https://leetcode.com/problems/subrectangle-queries)|32 ms|51.9 MB|11-06-2021|[java](code/1476.subrectangle-queries.java)|
 |1480|[Running Sum Of 1D Array](https://leetcode.com/problems/running-sum-of-1d-array)|0 ms|39.2 MB|11-06-2021|[java](code/1480.running-sum-of-1d-array.java)|
